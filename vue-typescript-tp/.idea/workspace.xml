@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbb8768d-c485-4b5f-9b81-9828c01b2601" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/posters/breaking-bad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/posters/dexter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/posters/game-of-thrones.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/posters/greys-anatomy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/posters/how-i-met-your-mother.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/posters/stranger-things.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/posters/the-big-bang-theory.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/posters/the-vampire-diaries.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/posters/the-walking-dead.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/posters/vikings.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Show.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ShowList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/directives/AutoFocusDirectives.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/filters/TextShortcutsFilters.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/ShowsService.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/ShowI.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/FavoritesPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/ShowDetailPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/ShowsPage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Home.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unit/example.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tests/unit/example.spec.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eRLzKUXnj7BCg1lDSp4QmmwmfU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../server-formation-vue" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/views" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbb8768d-c485-4b5f-9b81-9828c01b2601" name="Default Changelist" comment="" />
+      <created>1594279719241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594279719241</updated>
+      <workItem from="1594279723498" duration="12610000" />
+      <workItem from="1594297497866" duration="11781000" />
+      <workItem from="1594367785343" duration="16130000" />
+      <workItem from="1594398935401" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="1358" width="426" height="606" key="FileChooserDialogImpl" timestamp="1594373220878">
+      <screen x="0" y="1131" width="1920" height="1080" />
+    </state>
+    <state x="743" y="1358" width="426" height="606" key="FileChooserDialogImpl/0.1131.1920.1080/1920.0.3440.1440@0.1131.1920.1080" timestamp="1594373220878" />
+    <state x="588" y="1408" width="759" height="507" key="NewModule_or_Project.wizard" timestamp="1594373225295">
+      <screen x="0" y="1131" width="1920" height="1080" />
+    </state>
+    <state x="588" y="1408" width="759" height="507" key="NewModule_or_Project.wizard/0.1131.1920.1080/1920.0.3440.1440@0.1131.1920.1080" timestamp="1594373225295" />
+    <state x="655" y="1292" width="610" height="732" key="find.popup" timestamp="1594374599501">
+      <screen x="0" y="1131" width="1920" height="1080" />
+    </state>
+    <state x="655" y="1292" width="610" height="732" key="find.popup/0.1131.1920.1080/1920.0.3440.1440@0.1131.1920.1080" timestamp="1594374599501" />
+    <state x="590" y="788" key="run.anything.popup" timestamp="1594283971579">
+      <screen x="0" y="1131" width="1920" height="1080" />
+    </state>
+    <state x="590" y="788" key="run.anything.popup/0.1131.1920.1080/1920.0.3440.1440@0.1131.1920.1080" timestamp="1594283971579" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/router/index.ts</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
